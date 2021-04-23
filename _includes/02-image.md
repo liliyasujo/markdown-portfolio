@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Lily flower](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLilium&psig=AOvVaw0rnjKQ5Mqhh9XnFP2G04Kw&ust=1619284345165000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDBnLXulPACFQAAAAAdAAAAABAD)
